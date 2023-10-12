@@ -16,6 +16,7 @@ fn main() {
 
         if floor == -1 {
             println!("{}", position + 1);
+            break;
         }
     }
 }
